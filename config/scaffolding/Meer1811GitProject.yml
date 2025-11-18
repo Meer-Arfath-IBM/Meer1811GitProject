@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Meer1811GitProject
+  gitServerName: Meer_GH
+  gitUrl: https://github.com/Meer-Arfath-IBM
+  gitUsername: Meer-Arfath-IBM
+  gitBranch: main
